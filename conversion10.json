@@ -1,0 +1,3866 @@
+{
+    "0": {
+        "date_group": "2023-03-01",
+        "platform": "android",
+        "visits": 75,
+        "registrations": 61,
+        "conversion": 81.33
+    },
+    "1": {
+        "date_group": "2023-03-01",
+        "platform": "ios",
+        "visits": 22,
+        "registrations": 18,
+        "conversion": 81.82
+    },
+    "2": {
+        "date_group": "2023-03-01",
+        "platform": "web",
+        "visits": 279,
+        "registrations": 8,
+        "conversion": 2.87
+    },
+    "3": {
+        "date_group": "2023-03-02",
+        "platform": "android",
+        "visits": 67,
+        "registrations": 59,
+        "conversion": 88.06
+    },
+    "4": {
+        "date_group": "2023-03-02",
+        "platform": "ios",
+        "visits": 31,
+        "registrations": 24,
+        "conversion": 77.42
+    },
+    "5": {
+        "date_group": "2023-03-02",
+        "platform": "web",
+        "visits": 515,
+        "registrations": 23,
+        "conversion": 4.47
+    },
+    "6": {
+        "date_group": "2023-03-03",
+        "platform": "android",
+        "visits": 26,
+        "registrations": 22,
+        "conversion": 84.62
+    },
+    "7": {
+        "date_group": "2023-03-03",
+        "platform": "ios",
+        "visits": 40,
+        "registrations": 34,
+        "conversion": 85.0
+    },
+    "8": {
+        "date_group": "2023-03-03",
+        "platform": "web",
+        "visits": 617,
+        "registrations": 51,
+        "conversion": 8.27
+    },
+    "9": {
+        "date_group": "2023-03-04",
+        "platform": "android",
+        "visits": 94,
+        "registrations": 77,
+        "conversion": 81.91
+    },
+    "10": {
+        "date_group": "2023-03-04",
+        "platform": "ios",
+        "visits": 68,
+        "registrations": 43,
+        "conversion": 63.24
+    },
+    "11": {
+        "date_group": "2023-03-04",
+        "platform": "web",
+        "visits": 485,
+        "registrations": 39,
+        "conversion": 8.04
+    },
+    "12": {
+        "date_group": "2023-03-05",
+        "platform": "android",
+        "visits": 66,
+        "registrations": 54,
+        "conversion": 81.82
+    },
+    "13": {
+        "date_group": "2023-03-05",
+        "platform": "ios",
+        "visits": 16,
+        "registrations": 13,
+        "conversion": 81.25
+    },
+    "14": {
+        "date_group": "2023-03-05",
+        "platform": "web",
+        "visits": 625,
+        "registrations": 48,
+        "conversion": 7.68
+    },
+    "15": {
+        "date_group": "2023-03-06",
+        "platform": "android",
+        "visits": 150,
+        "registrations": 109,
+        "conversion": 72.67
+    },
+    "16": {
+        "date_group": "2023-03-06",
+        "platform": "ios",
+        "visits": 57,
+        "registrations": 43,
+        "conversion": 75.44
+    },
+    "17": {
+        "date_group": "2023-03-06",
+        "platform": "web",
+        "visits": 1084,
+        "registrations": 78,
+        "conversion": 7.2
+    },
+    "18": {
+        "date_group": "2023-03-07",
+        "platform": "android",
+        "visits": 62,
+        "registrations": 50,
+        "conversion": 80.65
+    },
+    "19": {
+        "date_group": "2023-03-07",
+        "platform": "ios",
+        "visits": 25,
+        "registrations": 19,
+        "conversion": 76.0
+    },
+    "20": {
+        "date_group": "2023-03-07",
+        "platform": "web",
+        "visits": 1295,
+        "registrations": 55,
+        "conversion": 4.25
+    },
+    "21": {
+        "date_group": "2023-03-08",
+        "platform": "android",
+        "visits": 119,
+        "registrations": 74,
+        "conversion": 62.18
+    },
+    "22": {
+        "date_group": "2023-03-08",
+        "platform": "ios",
+        "visits": 28,
+        "registrations": 18,
+        "conversion": 64.29
+    },
+    "23": {
+        "date_group": "2023-03-08",
+        "platform": "web",
+        "visits": 1235,
+        "registrations": 59,
+        "conversion": 4.78
+    },
+    "24": {
+        "date_group": "2023-03-09",
+        "platform": "android",
+        "visits": 138,
+        "registrations": 106,
+        "conversion": 76.81
+    },
+    "25": {
+        "date_group": "2023-03-09",
+        "platform": "ios",
+        "visits": 43,
+        "registrations": 34,
+        "conversion": 79.07
+    },
+    "26": {
+        "date_group": "2023-03-09",
+        "platform": "web",
+        "visits": 883,
+        "registrations": 69,
+        "conversion": 7.81
+    },
+    "27": {
+        "date_group": "2023-03-10",
+        "platform": "android",
+        "visits": 87,
+        "registrations": 59,
+        "conversion": 67.82
+    },
+    "28": {
+        "date_group": "2023-03-10",
+        "platform": "ios",
+        "visits": 23,
+        "registrations": 16,
+        "conversion": 69.57
+    },
+    "29": {
+        "date_group": "2023-03-10",
+        "platform": "web",
+        "visits": 702,
+        "registrations": 37,
+        "conversion": 5.27
+    },
+    "30": {
+        "date_group": "2023-03-11",
+        "platform": "android",
+        "visits": 47,
+        "registrations": 37,
+        "conversion": 78.72
+    },
+    "31": {
+        "date_group": "2023-03-11",
+        "platform": "ios",
+        "visits": 46,
+        "registrations": 30,
+        "conversion": 65.22
+    },
+    "32": {
+        "date_group": "2023-03-11",
+        "platform": "web",
+        "visits": 1197,
+        "registrations": 72,
+        "conversion": 6.02
+    },
+    "33": {
+        "date_group": "2023-03-12",
+        "platform": "android",
+        "visits": 130,
+        "registrations": 87,
+        "conversion": 66.92
+    },
+    "34": {
+        "date_group": "2023-03-12",
+        "platform": "ios",
+        "visits": 74,
+        "registrations": 54,
+        "conversion": 72.97
+    },
+    "35": {
+        "date_group": "2023-03-12",
+        "platform": "web",
+        "visits": 1190,
+        "registrations": 78,
+        "conversion": 6.55
+    },
+    "36": {
+        "date_group": "2023-03-13",
+        "platform": "android",
+        "visits": 147,
+        "registrations": 109,
+        "conversion": 74.15
+    },
+    "37": {
+        "date_group": "2023-03-13",
+        "platform": "ios",
+        "visits": 29,
+        "registrations": 18,
+        "conversion": 62.07
+    },
+    "38": {
+        "date_group": "2023-03-13",
+        "platform": "web",
+        "visits": 717,
+        "registrations": 37,
+        "conversion": 5.16
+    },
+    "39": {
+        "date_group": "2023-03-14",
+        "platform": "android",
+        "visits": 66,
+        "registrations": 53,
+        "conversion": 80.3
+    },
+    "40": {
+        "date_group": "2023-03-14",
+        "platform": "ios",
+        "visits": 37,
+        "registrations": 23,
+        "conversion": 62.16
+    },
+    "41": {
+        "date_group": "2023-03-14",
+        "platform": "web",
+        "visits": 872,
+        "registrations": 68,
+        "conversion": 7.8
+    },
+    "42": {
+        "date_group": "2023-03-15",
+        "platform": "android",
+        "visits": 78,
+        "registrations": 60,
+        "conversion": 76.92
+    },
+    "43": {
+        "date_group": "2023-03-15",
+        "platform": "ios",
+        "visits": 42,
+        "registrations": 31,
+        "conversion": 73.81
+    },
+    "44": {
+        "date_group": "2023-03-15",
+        "platform": "web",
+        "visits": 1077,
+        "registrations": 39,
+        "conversion": 3.62
+    },
+    "45": {
+        "date_group": "2023-03-16",
+        "platform": "android",
+        "visits": 76,
+        "registrations": 66,
+        "conversion": 86.84
+    },
+    "46": {
+        "date_group": "2023-03-16",
+        "platform": "ios",
+        "visits": 22,
+        "registrations": 18,
+        "conversion": 81.82
+    },
+    "47": {
+        "date_group": "2023-03-16",
+        "platform": "web",
+        "visits": 296,
+        "registrations": 17,
+        "conversion": 5.74
+    },
+    "48": {
+        "date_group": "2023-03-17",
+        "platform": "android",
+        "visits": 53,
+        "registrations": 46,
+        "conversion": 86.79
+    },
+    "49": {
+        "date_group": "2023-03-17",
+        "platform": "ios",
+        "visits": 19,
+        "registrations": 16,
+        "conversion": 84.21
+    },
+    "50": {
+        "date_group": "2023-03-17",
+        "platform": "web",
+        "visits": 466,
+        "registrations": 20,
+        "conversion": 4.29
+    },
+    "51": {
+        "date_group": "2023-03-18",
+        "platform": "android",
+        "visits": 81,
+        "registrations": 69,
+        "conversion": 85.19
+    },
+    "52": {
+        "date_group": "2023-03-18",
+        "platform": "ios",
+        "visits": 19,
+        "registrations": 16,
+        "conversion": 84.21
+    },
+    "53": {
+        "date_group": "2023-03-18",
+        "platform": "web",
+        "visits": 369,
+        "registrations": 16,
+        "conversion": 4.34
+    },
+    "54": {
+        "date_group": "2023-03-19",
+        "platform": "android",
+        "visits": 61,
+        "registrations": 52,
+        "conversion": 85.25
+    },
+    "55": {
+        "date_group": "2023-03-19",
+        "platform": "ios",
+        "visits": 31,
+        "registrations": 26,
+        "conversion": 83.87
+    },
+    "56": {
+        "date_group": "2023-03-19",
+        "platform": "web",
+        "visits": 657,
+        "registrations": 29,
+        "conversion": 4.41
+    },
+    "57": {
+        "date_group": "2023-03-20",
+        "platform": "android",
+        "visits": 43,
+        "registrations": 35,
+        "conversion": 81.4
+    },
+    "58": {
+        "date_group": "2023-03-20",
+        "platform": "ios",
+        "visits": 17,
+        "registrations": 13,
+        "conversion": 76.47
+    },
+    "59": {
+        "date_group": "2023-03-20",
+        "platform": "web",
+        "visits": 557,
+        "registrations": 33,
+        "conversion": 5.92
+    },
+    "60": {
+        "date_group": "2023-03-21",
+        "platform": "android",
+        "visits": 65,
+        "registrations": 56,
+        "conversion": 86.15
+    },
+    "61": {
+        "date_group": "2023-03-21",
+        "platform": "ios",
+        "visits": 11,
+        "registrations": 9,
+        "conversion": 81.82
+    },
+    "62": {
+        "date_group": "2023-03-21",
+        "platform": "web",
+        "visits": 491,
+        "registrations": 24,
+        "conversion": 4.89
+    },
+    "63": {
+        "date_group": "2023-03-22",
+        "platform": "android",
+        "visits": 77,
+        "registrations": 68,
+        "conversion": 88.31
+    },
+    "64": {
+        "date_group": "2023-03-22",
+        "platform": "ios",
+        "visits": 37,
+        "registrations": 32,
+        "conversion": 86.49
+    },
+    "65": {
+        "date_group": "2023-03-22",
+        "platform": "web",
+        "visits": 341,
+        "registrations": 30,
+        "conversion": 8.8
+    },
+    "66": {
+        "date_group": "2023-03-23",
+        "platform": "android",
+        "visits": 66,
+        "registrations": 55,
+        "conversion": 83.33
+    },
+    "67": {
+        "date_group": "2023-03-23",
+        "platform": "ios",
+        "visits": 39,
+        "registrations": 32,
+        "conversion": 82.05
+    },
+    "68": {
+        "date_group": "2023-03-23",
+        "platform": "web",
+        "visits": 603,
+        "registrations": 36,
+        "conversion": 5.97
+    },
+    "69": {
+        "date_group": "2023-03-24",
+        "platform": "android",
+        "visits": 47,
+        "registrations": 41,
+        "conversion": 87.23
+    },
+    "70": {
+        "date_group": "2023-03-24",
+        "platform": "ios",
+        "visits": 17,
+        "registrations": 13,
+        "conversion": 76.47
+    },
+    "71": {
+        "date_group": "2023-03-24",
+        "platform": "web",
+        "visits": 461,
+        "registrations": 15,
+        "conversion": 3.25
+    },
+    "72": {
+        "date_group": "2023-03-25",
+        "platform": "android",
+        "visits": 50,
+        "registrations": 40,
+        "conversion": 80.0
+    },
+    "73": {
+        "date_group": "2023-03-25",
+        "platform": "ios",
+        "visits": 21,
+        "registrations": 17,
+        "conversion": 80.95
+    },
+    "74": {
+        "date_group": "2023-03-25",
+        "platform": "web",
+        "visits": 452,
+        "registrations": 27,
+        "conversion": 5.97
+    },
+    "75": {
+        "date_group": "2023-03-26",
+        "platform": "android",
+        "visits": 70,
+        "registrations": 58,
+        "conversion": 82.86
+    },
+    "76": {
+        "date_group": "2023-03-26",
+        "platform": "ios",
+        "visits": 14,
+        "registrations": 11,
+        "conversion": 78.57
+    },
+    "77": {
+        "date_group": "2023-03-26",
+        "platform": "web",
+        "visits": 471,
+        "registrations": 19,
+        "conversion": 4.03
+    },
+    "78": {
+        "date_group": "2023-03-27",
+        "platform": "android",
+        "visits": 80,
+        "registrations": 67,
+        "conversion": 83.75
+    },
+    "79": {
+        "date_group": "2023-03-27",
+        "platform": "ios",
+        "visits": 15,
+        "registrations": 12,
+        "conversion": 80.0
+    },
+    "80": {
+        "date_group": "2023-03-27",
+        "platform": "web",
+        "visits": 482,
+        "registrations": 44,
+        "conversion": 9.13
+    },
+    "81": {
+        "date_group": "2023-03-28",
+        "platform": "android",
+        "visits": 59,
+        "registrations": 48,
+        "conversion": 81.36
+    },
+    "82": {
+        "date_group": "2023-03-28",
+        "platform": "ios",
+        "visits": 46,
+        "registrations": 34,
+        "conversion": 73.91
+    },
+    "83": {
+        "date_group": "2023-03-28",
+        "platform": "web",
+        "visits": 645,
+        "registrations": 23,
+        "conversion": 3.57
+    },
+    "84": {
+        "date_group": "2023-03-29",
+        "platform": "android",
+        "visits": 73,
+        "registrations": 54,
+        "conversion": 73.97
+    },
+    "85": {
+        "date_group": "2023-03-29",
+        "platform": "ios",
+        "visits": 24,
+        "registrations": 22,
+        "conversion": 91.67
+    },
+    "86": {
+        "date_group": "2023-03-29",
+        "platform": "web",
+        "visits": 394,
+        "registrations": 13,
+        "conversion": 3.3
+    },
+    "87": {
+        "date_group": "2023-03-30",
+        "platform": "android",
+        "visits": 38,
+        "registrations": 30,
+        "conversion": 78.95
+    },
+    "88": {
+        "date_group": "2023-03-30",
+        "platform": "ios",
+        "visits": 44,
+        "registrations": 35,
+        "conversion": 79.55
+    },
+    "89": {
+        "date_group": "2023-03-30",
+        "platform": "web",
+        "visits": 369,
+        "registrations": 38,
+        "conversion": 10.3
+    },
+    "90": {
+        "date_group": "2023-03-31",
+        "platform": "android",
+        "visits": 84,
+        "registrations": 66,
+        "conversion": 78.57
+    },
+    "91": {
+        "date_group": "2023-03-31",
+        "platform": "ios",
+        "visits": 27,
+        "registrations": 23,
+        "conversion": 85.19
+    },
+    "92": {
+        "date_group": "2023-03-31",
+        "platform": "web",
+        "visits": 731,
+        "registrations": 26,
+        "conversion": 3.56
+    },
+    "93": {
+        "date_group": "2023-04-01",
+        "platform": "android",
+        "visits": 74,
+        "registrations": 57,
+        "conversion": 77.03
+    },
+    "94": {
+        "date_group": "2023-04-01",
+        "platform": "ios",
+        "visits": 68,
+        "registrations": 53,
+        "conversion": 77.94
+    },
+    "95": {
+        "date_group": "2023-04-01",
+        "platform": "web",
+        "visits": 765,
+        "registrations": 49,
+        "conversion": 6.41
+    },
+    "96": {
+        "date_group": "2023-04-02",
+        "platform": "android",
+        "visits": 69,
+        "registrations": 58,
+        "conversion": 84.06
+    },
+    "97": {
+        "date_group": "2023-04-02",
+        "platform": "ios",
+        "visits": 60,
+        "registrations": 45,
+        "conversion": 75.0
+    },
+    "98": {
+        "date_group": "2023-04-02",
+        "platform": "web",
+        "visits": 811,
+        "registrations": 59,
+        "conversion": 7.27
+    },
+    "99": {
+        "date_group": "2023-04-03",
+        "platform": "android",
+        "visits": 96,
+        "registrations": 83,
+        "conversion": 86.46
+    },
+    "100": {
+        "date_group": "2023-04-03",
+        "platform": "ios",
+        "visits": 39,
+        "registrations": 27,
+        "conversion": 69.23
+    },
+    "101": {
+        "date_group": "2023-04-03",
+        "platform": "web",
+        "visits": 739,
+        "registrations": 46,
+        "conversion": 6.22
+    },
+    "102": {
+        "date_group": "2023-04-04",
+        "platform": "android",
+        "visits": 85,
+        "registrations": 72,
+        "conversion": 84.71
+    },
+    "103": {
+        "date_group": "2023-04-04",
+        "platform": "ios",
+        "visits": 33,
+        "registrations": 27,
+        "conversion": 81.82
+    },
+    "104": {
+        "date_group": "2023-04-04",
+        "platform": "web",
+        "visits": 798,
+        "registrations": 54,
+        "conversion": 6.77
+    },
+    "105": {
+        "date_group": "2023-04-05",
+        "platform": "android",
+        "visits": 100,
+        "registrations": 73,
+        "conversion": 73.0
+    },
+    "106": {
+        "date_group": "2023-04-05",
+        "platform": "ios",
+        "visits": 28,
+        "registrations": 24,
+        "conversion": 85.71
+    },
+    "107": {
+        "date_group": "2023-04-05",
+        "platform": "web",
+        "visits": 624,
+        "registrations": 34,
+        "conversion": 5.45
+    },
+    "108": {
+        "date_group": "2023-04-06",
+        "platform": "android",
+        "visits": 108,
+        "registrations": 93,
+        "conversion": 86.11
+    },
+    "109": {
+        "date_group": "2023-04-06",
+        "platform": "ios",
+        "visits": 24,
+        "registrations": 18,
+        "conversion": 75.0
+    },
+    "110": {
+        "date_group": "2023-04-06",
+        "platform": "web",
+        "visits": 365,
+        "registrations": 12,
+        "conversion": 3.29
+    },
+    "111": {
+        "date_group": "2023-04-07",
+        "platform": "android",
+        "visits": 111,
+        "registrations": 90,
+        "conversion": 81.08
+    },
+    "112": {
+        "date_group": "2023-04-07",
+        "platform": "ios",
+        "visits": 56,
+        "registrations": 46,
+        "conversion": 82.14
+    },
+    "113": {
+        "date_group": "2023-04-07",
+        "platform": "web",
+        "visits": 928,
+        "registrations": 66,
+        "conversion": 7.11
+    },
+    "114": {
+        "date_group": "2023-04-08",
+        "platform": "android",
+        "visits": 107,
+        "registrations": 82,
+        "conversion": 76.64
+    },
+    "115": {
+        "date_group": "2023-04-08",
+        "platform": "ios",
+        "visits": 26,
+        "registrations": 25,
+        "conversion": 96.15
+    },
+    "116": {
+        "date_group": "2023-04-08",
+        "platform": "web",
+        "visits": 876,
+        "registrations": 67,
+        "conversion": 7.65
+    },
+    "117": {
+        "date_group": "2023-04-09",
+        "platform": "android",
+        "visits": 81,
+        "registrations": 68,
+        "conversion": 83.95
+    },
+    "118": {
+        "date_group": "2023-04-09",
+        "platform": "ios",
+        "visits": 25,
+        "registrations": 21,
+        "conversion": 84.0
+    },
+    "119": {
+        "date_group": "2023-04-09",
+        "platform": "web",
+        "visits": 548,
+        "registrations": 30,
+        "conversion": 5.47
+    },
+    "120": {
+        "date_group": "2023-04-10",
+        "platform": "android",
+        "visits": 132,
+        "registrations": 109,
+        "conversion": 82.58
+    },
+    "121": {
+        "date_group": "2023-04-10",
+        "platform": "ios",
+        "visits": 37,
+        "registrations": 29,
+        "conversion": 78.38
+    },
+    "122": {
+        "date_group": "2023-04-10",
+        "platform": "web",
+        "visits": 494,
+        "registrations": 27,
+        "conversion": 5.47
+    },
+    "123": {
+        "date_group": "2023-04-11",
+        "platform": "android",
+        "visits": 27,
+        "registrations": 21,
+        "conversion": 77.78
+    },
+    "124": {
+        "date_group": "2023-04-11",
+        "platform": "ios",
+        "visits": 41,
+        "registrations": 33,
+        "conversion": 80.49
+    },
+    "125": {
+        "date_group": "2023-04-11",
+        "platform": "web",
+        "visits": 633,
+        "registrations": 63,
+        "conversion": 9.95
+    },
+    "126": {
+        "date_group": "2023-04-12",
+        "platform": "android",
+        "visits": 91,
+        "registrations": 79,
+        "conversion": 86.81
+    },
+    "127": {
+        "date_group": "2023-04-12",
+        "platform": "ios",
+        "visits": 29,
+        "registrations": 26,
+        "conversion": 89.66
+    },
+    "128": {
+        "date_group": "2023-04-12",
+        "platform": "web",
+        "visits": 438,
+        "registrations": 31,
+        "conversion": 7.08
+    },
+    "129": {
+        "date_group": "2023-04-13",
+        "platform": "android",
+        "visits": 84,
+        "registrations": 71,
+        "conversion": 84.52
+    },
+    "130": {
+        "date_group": "2023-04-13",
+        "platform": "ios",
+        "visits": 39,
+        "registrations": 32,
+        "conversion": 82.05
+    },
+    "131": {
+        "date_group": "2023-04-13",
+        "platform": "web",
+        "visits": 976,
+        "registrations": 74,
+        "conversion": 7.58
+    },
+    "132": {
+        "date_group": "2023-04-14",
+        "platform": "android",
+        "visits": 81,
+        "registrations": 54,
+        "conversion": 66.67
+    },
+    "133": {
+        "date_group": "2023-04-14",
+        "platform": "ios",
+        "visits": 44,
+        "registrations": 37,
+        "conversion": 84.09
+    },
+    "134": {
+        "date_group": "2023-04-14",
+        "platform": "web",
+        "visits": 419,
+        "registrations": 28,
+        "conversion": 6.68
+    },
+    "135": {
+        "date_group": "2023-04-15",
+        "platform": "android",
+        "visits": 45,
+        "registrations": 35,
+        "conversion": 77.78
+    },
+    "136": {
+        "date_group": "2023-04-15",
+        "platform": "ios",
+        "visits": 18,
+        "registrations": 15,
+        "conversion": 83.33
+    },
+    "137": {
+        "date_group": "2023-04-15",
+        "platform": "web",
+        "visits": 384,
+        "registrations": 11,
+        "conversion": 2.86
+    },
+    "138": {
+        "date_group": "2023-04-16",
+        "platform": "android",
+        "visits": 106,
+        "registrations": 85,
+        "conversion": 80.19
+    },
+    "139": {
+        "date_group": "2023-04-16",
+        "platform": "ios",
+        "visits": 50,
+        "registrations": 45,
+        "conversion": 90.0
+    },
+    "140": {
+        "date_group": "2023-04-16",
+        "platform": "web",
+        "visits": 799,
+        "registrations": 73,
+        "conversion": 9.14
+    },
+    "141": {
+        "date_group": "2023-04-17",
+        "platform": "android",
+        "visits": 93,
+        "registrations": 62,
+        "conversion": 66.67
+    },
+    "142": {
+        "date_group": "2023-04-17",
+        "platform": "ios",
+        "visits": 40,
+        "registrations": 35,
+        "conversion": 87.5
+    },
+    "143": {
+        "date_group": "2023-04-17",
+        "platform": "web",
+        "visits": 400,
+        "registrations": 15,
+        "conversion": 3.75
+    },
+    "144": {
+        "date_group": "2023-04-18",
+        "platform": "android",
+        "visits": 67,
+        "registrations": 55,
+        "conversion": 82.09
+    },
+    "145": {
+        "date_group": "2023-04-18",
+        "platform": "ios",
+        "visits": 29,
+        "registrations": 23,
+        "conversion": 79.31
+    },
+    "146": {
+        "date_group": "2023-04-18",
+        "platform": "web",
+        "visits": 716,
+        "registrations": 60,
+        "conversion": 8.38
+    },
+    "147": {
+        "date_group": "2023-04-19",
+        "platform": "android",
+        "visits": 105,
+        "registrations": 79,
+        "conversion": 75.24
+    },
+    "148": {
+        "date_group": "2023-04-19",
+        "platform": "ios",
+        "visits": 28,
+        "registrations": 26,
+        "conversion": 92.86
+    },
+    "149": {
+        "date_group": "2023-04-19",
+        "platform": "web",
+        "visits": 663,
+        "registrations": 47,
+        "conversion": 7.09
+    },
+    "150": {
+        "date_group": "2023-04-20",
+        "platform": "android",
+        "visits": 117,
+        "registrations": 88,
+        "conversion": 75.21
+    },
+    "151": {
+        "date_group": "2023-04-20",
+        "platform": "ios",
+        "visits": 42,
+        "registrations": 37,
+        "conversion": 88.1
+    },
+    "152": {
+        "date_group": "2023-04-20",
+        "platform": "web",
+        "visits": 821,
+        "registrations": 52,
+        "conversion": 6.33
+    },
+    "153": {
+        "date_group": "2023-04-21",
+        "platform": "android",
+        "visits": 64,
+        "registrations": 50,
+        "conversion": 78.12
+    },
+    "154": {
+        "date_group": "2023-04-21",
+        "platform": "ios",
+        "visits": 14,
+        "registrations": 12,
+        "conversion": 85.71
+    },
+    "155": {
+        "date_group": "2023-04-21",
+        "platform": "web",
+        "visits": 691,
+        "registrations": 66,
+        "conversion": 9.55
+    },
+    "156": {
+        "date_group": "2023-04-22",
+        "platform": "android",
+        "visits": 56,
+        "registrations": 52,
+        "conversion": 92.86
+    },
+    "157": {
+        "date_group": "2023-04-22",
+        "platform": "ios",
+        "visits": 48,
+        "registrations": 35,
+        "conversion": 72.92
+    },
+    "158": {
+        "date_group": "2023-04-22",
+        "platform": "web",
+        "visits": 780,
+        "registrations": 60,
+        "conversion": 7.69
+    },
+    "159": {
+        "date_group": "2023-04-23",
+        "platform": "android",
+        "visits": 34,
+        "registrations": 27,
+        "conversion": 79.41
+    },
+    "160": {
+        "date_group": "2023-04-23",
+        "platform": "ios",
+        "visits": 34,
+        "registrations": 25,
+        "conversion": 73.53
+    },
+    "161": {
+        "date_group": "2023-04-23",
+        "platform": "web",
+        "visits": 858,
+        "registrations": 67,
+        "conversion": 7.81
+    },
+    "162": {
+        "date_group": "2023-04-24",
+        "platform": "android",
+        "visits": 123,
+        "registrations": 87,
+        "conversion": 70.73
+    },
+    "163": {
+        "date_group": "2023-04-24",
+        "platform": "ios",
+        "visits": 50,
+        "registrations": 38,
+        "conversion": 76.0
+    },
+    "164": {
+        "date_group": "2023-04-24",
+        "platform": "web",
+        "visits": 885,
+        "registrations": 89,
+        "conversion": 10.06
+    },
+    "165": {
+        "date_group": "2023-04-25",
+        "platform": "android",
+        "visits": 104,
+        "registrations": 95,
+        "conversion": 91.35
+    },
+    "166": {
+        "date_group": "2023-04-25",
+        "platform": "ios",
+        "visits": 25,
+        "registrations": 21,
+        "conversion": 84.0
+    },
+    "167": {
+        "date_group": "2023-04-25",
+        "platform": "web",
+        "visits": 530,
+        "registrations": 38,
+        "conversion": 7.17
+    },
+    "168": {
+        "date_group": "2023-04-26",
+        "platform": "android",
+        "visits": 39,
+        "registrations": 28,
+        "conversion": 71.79
+    },
+    "169": {
+        "date_group": "2023-04-26",
+        "platform": "ios",
+        "visits": 28,
+        "registrations": 25,
+        "conversion": 89.29
+    },
+    "170": {
+        "date_group": "2023-04-26",
+        "platform": "web",
+        "visits": 553,
+        "registrations": 33,
+        "conversion": 5.97
+    },
+    "171": {
+        "date_group": "2023-04-27",
+        "platform": "android",
+        "visits": 111,
+        "registrations": 84,
+        "conversion": 75.68
+    },
+    "172": {
+        "date_group": "2023-04-27",
+        "platform": "ios",
+        "visits": 13,
+        "registrations": 10,
+        "conversion": 76.92
+    },
+    "173": {
+        "date_group": "2023-04-27",
+        "platform": "web",
+        "visits": 798,
+        "registrations": 25,
+        "conversion": 3.13
+    },
+    "174": {
+        "date_group": "2023-04-28",
+        "platform": "android",
+        "visits": 69,
+        "registrations": 54,
+        "conversion": 78.26
+    },
+    "175": {
+        "date_group": "2023-04-28",
+        "platform": "ios",
+        "visits": 45,
+        "registrations": 37,
+        "conversion": 82.22
+    },
+    "176": {
+        "date_group": "2023-04-28",
+        "platform": "web",
+        "visits": 786,
+        "registrations": 80,
+        "conversion": 10.18
+    },
+    "177": {
+        "date_group": "2023-04-29",
+        "platform": "android",
+        "visits": 74,
+        "registrations": 58,
+        "conversion": 78.38
+    },
+    "178": {
+        "date_group": "2023-04-29",
+        "platform": "ios",
+        "visits": 43,
+        "registrations": 34,
+        "conversion": 79.07
+    },
+    "179": {
+        "date_group": "2023-04-29",
+        "platform": "web",
+        "visits": 690,
+        "registrations": 51,
+        "conversion": 7.39
+    },
+    "180": {
+        "date_group": "2023-04-30",
+        "platform": "android",
+        "visits": 97,
+        "registrations": 78,
+        "conversion": 80.41
+    },
+    "181": {
+        "date_group": "2023-04-30",
+        "platform": "ios",
+        "visits": 63,
+        "registrations": 50,
+        "conversion": 79.37
+    },
+    "182": {
+        "date_group": "2023-04-30",
+        "platform": "web",
+        "visits": 735,
+        "registrations": 48,
+        "conversion": 6.53
+    },
+    "183": {
+        "date_group": "2023-05-01",
+        "platform": "android",
+        "visits": 27,
+        "registrations": 22,
+        "conversion": 81.48
+    },
+    "184": {
+        "date_group": "2023-05-01",
+        "platform": "ios",
+        "visits": 15,
+        "registrations": 14,
+        "conversion": 93.33
+    },
+    "185": {
+        "date_group": "2023-05-01",
+        "platform": "web",
+        "visits": 411,
+        "registrations": 23,
+        "conversion": 5.6
+    },
+    "186": {
+        "date_group": "2023-05-02",
+        "platform": "android",
+        "visits": 65,
+        "registrations": 51,
+        "conversion": 78.46
+    },
+    "187": {
+        "date_group": "2023-05-02",
+        "platform": "ios",
+        "visits": 67,
+        "registrations": 53,
+        "conversion": 79.1
+    },
+    "188": {
+        "date_group": "2023-05-02",
+        "platform": "web",
+        "visits": 547,
+        "registrations": 25,
+        "conversion": 4.57
+    },
+    "189": {
+        "date_group": "2023-05-03",
+        "platform": "android",
+        "visits": 95,
+        "registrations": 81,
+        "conversion": 85.26
+    },
+    "190": {
+        "date_group": "2023-05-03",
+        "platform": "ios",
+        "visits": 67,
+        "registrations": 50,
+        "conversion": 74.63
+    },
+    "191": {
+        "date_group": "2023-05-03",
+        "platform": "web",
+        "visits": 887,
+        "registrations": 65,
+        "conversion": 7.33
+    },
+    "192": {
+        "date_group": "2023-05-04",
+        "platform": "android",
+        "visits": 100,
+        "registrations": 83,
+        "conversion": 83.0
+    },
+    "193": {
+        "date_group": "2023-05-04",
+        "platform": "ios",
+        "visits": 39,
+        "registrations": 35,
+        "conversion": 89.74
+    },
+    "194": {
+        "date_group": "2023-05-04",
+        "platform": "web",
+        "visits": 513,
+        "registrations": 20,
+        "conversion": 3.9
+    },
+    "195": {
+        "date_group": "2023-05-05",
+        "platform": "android",
+        "visits": 108,
+        "registrations": 94,
+        "conversion": 87.04
+    },
+    "196": {
+        "date_group": "2023-05-05",
+        "platform": "ios",
+        "visits": 15,
+        "registrations": 11,
+        "conversion": 73.33
+    },
+    "197": {
+        "date_group": "2023-05-05",
+        "platform": "web",
+        "visits": 493,
+        "registrations": 35,
+        "conversion": 7.1
+    },
+    "198": {
+        "date_group": "2023-05-06",
+        "platform": "android",
+        "visits": 64,
+        "registrations": 61,
+        "conversion": 95.31
+    },
+    "199": {
+        "date_group": "2023-05-06",
+        "platform": "ios",
+        "visits": 29,
+        "registrations": 22,
+        "conversion": 75.86
+    },
+    "200": {
+        "date_group": "2023-05-06",
+        "platform": "web",
+        "visits": 795,
+        "registrations": 53,
+        "conversion": 6.67
+    },
+    "201": {
+        "date_group": "2023-05-07",
+        "platform": "android",
+        "visits": 42,
+        "registrations": 34,
+        "conversion": 80.95
+    },
+    "202": {
+        "date_group": "2023-05-07",
+        "platform": "ios",
+        "visits": 30,
+        "registrations": 24,
+        "conversion": 80.0
+    },
+    "203": {
+        "date_group": "2023-05-07",
+        "platform": "web",
+        "visits": 501,
+        "registrations": 39,
+        "conversion": 7.78
+    },
+    "204": {
+        "date_group": "2023-05-08",
+        "platform": "android",
+        "visits": 35,
+        "registrations": 28,
+        "conversion": 80.0
+    },
+    "205": {
+        "date_group": "2023-05-08",
+        "platform": "ios",
+        "visits": 31,
+        "registrations": 26,
+        "conversion": 83.87
+    },
+    "206": {
+        "date_group": "2023-05-08",
+        "platform": "web",
+        "visits": 554,
+        "registrations": 23,
+        "conversion": 4.15
+    },
+    "207": {
+        "date_group": "2023-05-09",
+        "platform": "android",
+        "visits": 33,
+        "registrations": 27,
+        "conversion": 81.82
+    },
+    "208": {
+        "date_group": "2023-05-09",
+        "platform": "ios",
+        "visits": 33,
+        "registrations": 26,
+        "conversion": 78.79
+    },
+    "209": {
+        "date_group": "2023-05-09",
+        "platform": "web",
+        "visits": 662,
+        "registrations": 39,
+        "conversion": 5.89
+    },
+    "210": {
+        "date_group": "2023-05-10",
+        "platform": "android",
+        "visits": 94,
+        "registrations": 77,
+        "conversion": 81.91
+    },
+    "211": {
+        "date_group": "2023-05-10",
+        "platform": "ios",
+        "visits": 15,
+        "registrations": 12,
+        "conversion": 80.0
+    },
+    "212": {
+        "date_group": "2023-05-10",
+        "platform": "web",
+        "visits": 467,
+        "registrations": 43,
+        "conversion": 9.21
+    },
+    "213": {
+        "date_group": "2023-05-11",
+        "platform": "android",
+        "visits": 27,
+        "registrations": 21,
+        "conversion": 77.78
+    },
+    "214": {
+        "date_group": "2023-05-11",
+        "platform": "ios",
+        "visits": 21,
+        "registrations": 18,
+        "conversion": 85.71
+    },
+    "215": {
+        "date_group": "2023-05-11",
+        "platform": "web",
+        "visits": 296,
+        "registrations": 29,
+        "conversion": 9.8
+    },
+    "216": {
+        "date_group": "2023-05-12",
+        "platform": "android",
+        "visits": 91,
+        "registrations": 79,
+        "conversion": 86.81
+    },
+    "217": {
+        "date_group": "2023-05-12",
+        "platform": "ios",
+        "visits": 18,
+        "registrations": 14,
+        "conversion": 77.78
+    },
+    "218": {
+        "date_group": "2023-05-12",
+        "platform": "web",
+        "visits": 425,
+        "registrations": 24,
+        "conversion": 5.65
+    },
+    "219": {
+        "date_group": "2023-05-13",
+        "platform": "android",
+        "visits": 39,
+        "registrations": 33,
+        "conversion": 84.62
+    },
+    "220": {
+        "date_group": "2023-05-13",
+        "platform": "ios",
+        "visits": 10,
+        "registrations": 8,
+        "conversion": 80.0
+    },
+    "221": {
+        "date_group": "2023-05-13",
+        "platform": "web",
+        "visits": 452,
+        "registrations": 34,
+        "conversion": 7.52
+    },
+    "222": {
+        "date_group": "2023-05-14",
+        "platform": "android",
+        "visits": 60,
+        "registrations": 49,
+        "conversion": 81.67
+    },
+    "223": {
+        "date_group": "2023-05-14",
+        "platform": "ios",
+        "visits": 22,
+        "registrations": 18,
+        "conversion": 81.82
+    },
+    "224": {
+        "date_group": "2023-05-14",
+        "platform": "web",
+        "visits": 592,
+        "registrations": 26,
+        "conversion": 4.39
+    },
+    "225": {
+        "date_group": "2023-05-15",
+        "platform": "android",
+        "visits": 39,
+        "registrations": 31,
+        "conversion": 79.49
+    },
+    "226": {
+        "date_group": "2023-05-15",
+        "platform": "ios",
+        "visits": 32,
+        "registrations": 26,
+        "conversion": 81.25
+    },
+    "227": {
+        "date_group": "2023-05-15",
+        "platform": "web",
+        "visits": 320,
+        "registrations": 29,
+        "conversion": 9.06
+    },
+    "228": {
+        "date_group": "2023-05-16",
+        "platform": "android",
+        "visits": 38,
+        "registrations": 33,
+        "conversion": 86.84
+    },
+    "229": {
+        "date_group": "2023-05-16",
+        "platform": "ios",
+        "visits": 33,
+        "registrations": 28,
+        "conversion": 84.85
+    },
+    "230": {
+        "date_group": "2023-05-16",
+        "platform": "web",
+        "visits": 650,
+        "registrations": 39,
+        "conversion": 6.0
+    },
+    "231": {
+        "date_group": "2023-05-17",
+        "platform": "android",
+        "visits": 47,
+        "registrations": 41,
+        "conversion": 87.23
+    },
+    "232": {
+        "date_group": "2023-05-17",
+        "platform": "ios",
+        "visits": 41,
+        "registrations": 34,
+        "conversion": 82.93
+    },
+    "233": {
+        "date_group": "2023-05-17",
+        "platform": "web",
+        "visits": 288,
+        "registrations": 12,
+        "conversion": 4.17
+    },
+    "234": {
+        "date_group": "2023-05-18",
+        "platform": "android",
+        "visits": 26,
+        "registrations": 22,
+        "conversion": 84.62
+    },
+    "235": {
+        "date_group": "2023-05-18",
+        "platform": "ios",
+        "visits": 25,
+        "registrations": 21,
+        "conversion": 84.0
+    },
+    "236": {
+        "date_group": "2023-05-18",
+        "platform": "web",
+        "visits": 393,
+        "registrations": 29,
+        "conversion": 7.38
+    },
+    "237": {
+        "date_group": "2023-05-19",
+        "platform": "android",
+        "visits": 52,
+        "registrations": 42,
+        "conversion": 80.77
+    },
+    "238": {
+        "date_group": "2023-05-19",
+        "platform": "ios",
+        "visits": 37,
+        "registrations": 31,
+        "conversion": 83.78
+    },
+    "239": {
+        "date_group": "2023-05-19",
+        "platform": "web",
+        "visits": 598,
+        "registrations": 39,
+        "conversion": 6.52
+    },
+    "240": {
+        "date_group": "2023-05-20",
+        "platform": "android",
+        "visits": 48,
+        "registrations": 41,
+        "conversion": 85.42
+    },
+    "241": {
+        "date_group": "2023-05-20",
+        "platform": "ios",
+        "visits": 32,
+        "registrations": 26,
+        "conversion": 81.25
+    },
+    "242": {
+        "date_group": "2023-05-20",
+        "platform": "web",
+        "visits": 324,
+        "registrations": 11,
+        "conversion": 3.4
+    },
+    "243": {
+        "date_group": "2023-05-21",
+        "platform": "android",
+        "visits": 80,
+        "registrations": 68,
+        "conversion": 85.0
+    },
+    "244": {
+        "date_group": "2023-05-21",
+        "platform": "ios",
+        "visits": 12,
+        "registrations": 10,
+        "conversion": 83.33
+    },
+    "245": {
+        "date_group": "2023-05-21",
+        "platform": "web",
+        "visits": 444,
+        "registrations": 35,
+        "conversion": 7.88
+    },
+    "246": {
+        "date_group": "2023-05-22",
+        "platform": "android",
+        "visits": 75,
+        "registrations": 63,
+        "conversion": 84.0
+    },
+    "247": {
+        "date_group": "2023-05-22",
+        "platform": "ios",
+        "visits": 28,
+        "registrations": 22,
+        "conversion": 78.57
+    },
+    "248": {
+        "date_group": "2023-05-22",
+        "platform": "web",
+        "visits": 754,
+        "registrations": 58,
+        "conversion": 7.69
+    },
+    "249": {
+        "date_group": "2023-05-23",
+        "platform": "android",
+        "visits": 83,
+        "registrations": 64,
+        "conversion": 77.11
+    },
+    "250": {
+        "date_group": "2023-05-23",
+        "platform": "ios",
+        "visits": 24,
+        "registrations": 17,
+        "conversion": 70.83
+    },
+    "251": {
+        "date_group": "2023-05-23",
+        "platform": "web",
+        "visits": 481,
+        "registrations": 40,
+        "conversion": 8.32
+    },
+    "252": {
+        "date_group": "2023-05-24",
+        "platform": "android",
+        "visits": 61,
+        "registrations": 49,
+        "conversion": 80.33
+    },
+    "253": {
+        "date_group": "2023-05-24",
+        "platform": "ios",
+        "visits": 40,
+        "registrations": 27,
+        "conversion": 67.5
+    },
+    "254": {
+        "date_group": "2023-05-24",
+        "platform": "web",
+        "visits": 783,
+        "registrations": 51,
+        "conversion": 6.51
+    },
+    "255": {
+        "date_group": "2023-05-25",
+        "platform": "android",
+        "visits": 65,
+        "registrations": 48,
+        "conversion": 73.85
+    },
+    "256": {
+        "date_group": "2023-05-25",
+        "platform": "ios",
+        "visits": 19,
+        "registrations": 14,
+        "conversion": 73.68
+    },
+    "257": {
+        "date_group": "2023-05-25",
+        "platform": "web",
+        "visits": 406,
+        "registrations": 25,
+        "conversion": 6.16
+    },
+    "258": {
+        "date_group": "2023-05-26",
+        "platform": "android",
+        "visits": 113,
+        "registrations": 86,
+        "conversion": 76.11
+    },
+    "259": {
+        "date_group": "2023-05-26",
+        "platform": "ios",
+        "visits": 8,
+        "registrations": 6,
+        "conversion": 75.0
+    },
+    "260": {
+        "date_group": "2023-05-26",
+        "platform": "web",
+        "visits": 395,
+        "registrations": 25,
+        "conversion": 6.33
+    },
+    "261": {
+        "date_group": "2023-05-27",
+        "platform": "android",
+        "visits": 84,
+        "registrations": 63,
+        "conversion": 75.0
+    },
+    "262": {
+        "date_group": "2023-05-27",
+        "platform": "ios",
+        "visits": 17,
+        "registrations": 13,
+        "conversion": 76.47
+    },
+    "263": {
+        "date_group": "2023-05-27",
+        "platform": "web",
+        "visits": 429,
+        "registrations": 16,
+        "conversion": 3.73
+    },
+    "264": {
+        "date_group": "2023-05-28",
+        "platform": "android",
+        "visits": 35,
+        "registrations": 28,
+        "conversion": 80.0
+    },
+    "265": {
+        "date_group": "2023-05-28",
+        "platform": "ios",
+        "visits": 44,
+        "registrations": 33,
+        "conversion": 75.0
+    },
+    "266": {
+        "date_group": "2023-05-28",
+        "platform": "web",
+        "visits": 614,
+        "registrations": 52,
+        "conversion": 8.47
+    },
+    "267": {
+        "date_group": "2023-05-29",
+        "platform": "android",
+        "visits": 43,
+        "registrations": 34,
+        "conversion": 79.07
+    },
+    "268": {
+        "date_group": "2023-05-29",
+        "platform": "ios",
+        "visits": 18,
+        "registrations": 15,
+        "conversion": 83.33
+    },
+    "269": {
+        "date_group": "2023-05-29",
+        "platform": "web",
+        "visits": 351,
+        "registrations": 30,
+        "conversion": 8.55
+    },
+    "270": {
+        "date_group": "2023-05-30",
+        "platform": "android",
+        "visits": 45,
+        "registrations": 34,
+        "conversion": 75.56
+    },
+    "271": {
+        "date_group": "2023-05-30",
+        "platform": "ios",
+        "visits": 21,
+        "registrations": 14,
+        "conversion": 66.67
+    },
+    "272": {
+        "date_group": "2023-05-30",
+        "platform": "web",
+        "visits": 814,
+        "registrations": 26,
+        "conversion": 3.19
+    },
+    "273": {
+        "date_group": "2023-05-31",
+        "platform": "android",
+        "visits": 61,
+        "registrations": 42,
+        "conversion": 68.85
+    },
+    "274": {
+        "date_group": "2023-05-31",
+        "platform": "ios",
+        "visits": 32,
+        "registrations": 24,
+        "conversion": 75.0
+    },
+    "275": {
+        "date_group": "2023-05-31",
+        "platform": "web",
+        "visits": 763,
+        "registrations": 51,
+        "conversion": 6.68
+    },
+    "276": {
+        "date_group": "2023-06-01",
+        "platform": "android",
+        "visits": 68,
+        "registrations": 56,
+        "conversion": 82.35
+    },
+    "277": {
+        "date_group": "2023-06-01",
+        "platform": "ios",
+        "visits": 53,
+        "registrations": 39,
+        "conversion": 73.58
+    },
+    "278": {
+        "date_group": "2023-06-01",
+        "platform": "web",
+        "visits": 519,
+        "registrations": 29,
+        "conversion": 5.59
+    },
+    "279": {
+        "date_group": "2023-06-02",
+        "platform": "android",
+        "visits": 34,
+        "registrations": 25,
+        "conversion": 73.53
+    },
+    "280": {
+        "date_group": "2023-06-02",
+        "platform": "ios",
+        "visits": 14,
+        "registrations": 11,
+        "conversion": 78.57
+    },
+    "281": {
+        "date_group": "2023-06-02",
+        "platform": "web",
+        "visits": 438,
+        "registrations": 12,
+        "conversion": 2.74
+    },
+    "282": {
+        "date_group": "2023-06-03",
+        "platform": "android",
+        "visits": 79,
+        "registrations": 59,
+        "conversion": 74.68
+    },
+    "283": {
+        "date_group": "2023-06-03",
+        "platform": "ios",
+        "visits": 40,
+        "registrations": 31,
+        "conversion": 77.5
+    },
+    "284": {
+        "date_group": "2023-06-03",
+        "platform": "web",
+        "visits": 645,
+        "registrations": 49,
+        "conversion": 7.6
+    },
+    "285": {
+        "date_group": "2023-06-04",
+        "platform": "android",
+        "visits": 87,
+        "registrations": 67,
+        "conversion": 77.01
+    },
+    "286": {
+        "date_group": "2023-06-04",
+        "platform": "ios",
+        "visits": 28,
+        "registrations": 23,
+        "conversion": 82.14
+    },
+    "287": {
+        "date_group": "2023-06-04",
+        "platform": "web",
+        "visits": 346,
+        "registrations": 30,
+        "conversion": 8.67
+    },
+    "288": {
+        "date_group": "2023-06-05",
+        "platform": "android",
+        "visits": 44,
+        "registrations": 34,
+        "conversion": 77.27
+    },
+    "289": {
+        "date_group": "2023-06-05",
+        "platform": "ios",
+        "visits": 31,
+        "registrations": 25,
+        "conversion": 80.65
+    },
+    "290": {
+        "date_group": "2023-06-05",
+        "platform": "web",
+        "visits": 879,
+        "registrations": 55,
+        "conversion": 6.26
+    },
+    "291": {
+        "date_group": "2023-06-06",
+        "platform": "android",
+        "visits": 50,
+        "registrations": 41,
+        "conversion": 82.0
+    },
+    "292": {
+        "date_group": "2023-06-06",
+        "platform": "ios",
+        "visits": 24,
+        "registrations": 22,
+        "conversion": 91.67
+    },
+    "293": {
+        "date_group": "2023-06-06",
+        "platform": "web",
+        "visits": 603,
+        "registrations": 45,
+        "conversion": 7.46
+    },
+    "294": {
+        "date_group": "2023-06-07",
+        "platform": "android",
+        "visits": 72,
+        "registrations": 58,
+        "conversion": 80.56
+    },
+    "295": {
+        "date_group": "2023-06-07",
+        "platform": "ios",
+        "visits": 22,
+        "registrations": 17,
+        "conversion": 77.27
+    },
+    "296": {
+        "date_group": "2023-06-07",
+        "platform": "web",
+        "visits": 552,
+        "registrations": 20,
+        "conversion": 3.62
+    },
+    "297": {
+        "date_group": "2023-06-08",
+        "platform": "android",
+        "visits": 42,
+        "registrations": 30,
+        "conversion": 71.43
+    },
+    "298": {
+        "date_group": "2023-06-08",
+        "platform": "ios",
+        "visits": 16,
+        "registrations": 13,
+        "conversion": 81.25
+    },
+    "299": {
+        "date_group": "2023-06-08",
+        "platform": "web",
+        "visits": 650,
+        "registrations": 29,
+        "conversion": 4.46
+    },
+    "300": {
+        "date_group": "2023-06-09",
+        "platform": "android",
+        "visits": 79,
+        "registrations": 62,
+        "conversion": 78.48
+    },
+    "301": {
+        "date_group": "2023-06-09",
+        "platform": "ios",
+        "visits": 18,
+        "registrations": 14,
+        "conversion": 77.78
+    },
+    "302": {
+        "date_group": "2023-06-09",
+        "platform": "web",
+        "visits": 632,
+        "registrations": 39,
+        "conversion": 6.17
+    },
+    "303": {
+        "date_group": "2023-06-10",
+        "platform": "android",
+        "visits": 72,
+        "registrations": 58,
+        "conversion": 80.56
+    },
+    "304": {
+        "date_group": "2023-06-10",
+        "platform": "ios",
+        "visits": 42,
+        "registrations": 34,
+        "conversion": 80.95
+    },
+    "305": {
+        "date_group": "2023-06-10",
+        "platform": "web",
+        "visits": 429,
+        "registrations": 33,
+        "conversion": 7.69
+    },
+    "306": {
+        "date_group": "2023-06-11",
+        "platform": "android",
+        "visits": 85,
+        "registrations": 70,
+        "conversion": 82.35
+    },
+    "307": {
+        "date_group": "2023-06-11",
+        "platform": "ios",
+        "visits": 18,
+        "registrations": 14,
+        "conversion": 77.78
+    },
+    "308": {
+        "date_group": "2023-06-11",
+        "platform": "web",
+        "visits": 360,
+        "registrations": 16,
+        "conversion": 4.44
+    },
+    "309": {
+        "date_group": "2023-06-12",
+        "platform": "android",
+        "visits": 61,
+        "registrations": 51,
+        "conversion": 83.61
+    },
+    "310": {
+        "date_group": "2023-06-12",
+        "platform": "ios",
+        "visits": 34,
+        "registrations": 28,
+        "conversion": 82.35
+    },
+    "311": {
+        "date_group": "2023-06-12",
+        "platform": "web",
+        "visits": 437,
+        "registrations": 28,
+        "conversion": 6.41
+    },
+    "312": {
+        "date_group": "2023-06-13",
+        "platform": "android",
+        "visits": 34,
+        "registrations": 27,
+        "conversion": 79.41
+    },
+    "313": {
+        "date_group": "2023-06-13",
+        "platform": "ios",
+        "visits": 28,
+        "registrations": 24,
+        "conversion": 85.71
+    },
+    "314": {
+        "date_group": "2023-06-13",
+        "platform": "web",
+        "visits": 512,
+        "registrations": 18,
+        "conversion": 3.52
+    },
+    "315": {
+        "date_group": "2023-06-14",
+        "platform": "android",
+        "visits": 75,
+        "registrations": 66,
+        "conversion": 88.0
+    },
+    "316": {
+        "date_group": "2023-06-14",
+        "platform": "ios",
+        "visits": 16,
+        "registrations": 13,
+        "conversion": 81.25
+    },
+    "317": {
+        "date_group": "2023-06-14",
+        "platform": "web",
+        "visits": 347,
+        "registrations": 15,
+        "conversion": 4.32
+    },
+    "318": {
+        "date_group": "2023-06-15",
+        "platform": "android",
+        "visits": 42,
+        "registrations": 34,
+        "conversion": 80.95
+    },
+    "319": {
+        "date_group": "2023-06-15",
+        "platform": "ios",
+        "visits": 35,
+        "registrations": 28,
+        "conversion": 80.0
+    },
+    "320": {
+        "date_group": "2023-06-15",
+        "platform": "web",
+        "visits": 544,
+        "registrations": 51,
+        "conversion": 9.38
+    },
+    "321": {
+        "date_group": "2023-06-16",
+        "platform": "android",
+        "visits": 60,
+        "registrations": 51,
+        "conversion": 85.0
+    },
+    "322": {
+        "date_group": "2023-06-16",
+        "platform": "ios",
+        "visits": 31,
+        "registrations": 25,
+        "conversion": 80.65
+    },
+    "323": {
+        "date_group": "2023-06-16",
+        "platform": "web",
+        "visits": 391,
+        "registrations": 21,
+        "conversion": 5.37
+    },
+    "324": {
+        "date_group": "2023-06-17",
+        "platform": "android",
+        "visits": 58,
+        "registrations": 47,
+        "conversion": 81.03
+    },
+    "325": {
+        "date_group": "2023-06-17",
+        "platform": "ios",
+        "visits": 36,
+        "registrations": 30,
+        "conversion": 83.33
+    },
+    "326": {
+        "date_group": "2023-06-17",
+        "platform": "web",
+        "visits": 412,
+        "registrations": 18,
+        "conversion": 4.37
+    },
+    "327": {
+        "date_group": "2023-06-18",
+        "platform": "android",
+        "visits": 74,
+        "registrations": 61,
+        "conversion": 82.43
+    },
+    "328": {
+        "date_group": "2023-06-18",
+        "platform": "ios",
+        "visits": 39,
+        "registrations": 34,
+        "conversion": 87.18
+    },
+    "329": {
+        "date_group": "2023-06-18",
+        "platform": "web",
+        "visits": 605,
+        "registrations": 18,
+        "conversion": 2.98
+    },
+    "330": {
+        "date_group": "2023-06-19",
+        "platform": "android",
+        "visits": 79,
+        "registrations": 67,
+        "conversion": 84.81
+    },
+    "331": {
+        "date_group": "2023-06-19",
+        "platform": "ios",
+        "visits": 16,
+        "registrations": 14,
+        "conversion": 87.5
+    },
+    "332": {
+        "date_group": "2023-06-19",
+        "platform": "web",
+        "visits": 354,
+        "registrations": 17,
+        "conversion": 4.8
+    },
+    "333": {
+        "date_group": "2023-06-20",
+        "platform": "android",
+        "visits": 25,
+        "registrations": 22,
+        "conversion": 88.0
+    },
+    "334": {
+        "date_group": "2023-06-20",
+        "platform": "ios",
+        "visits": 23,
+        "registrations": 19,
+        "conversion": 82.61
+    },
+    "335": {
+        "date_group": "2023-06-20",
+        "platform": "web",
+        "visits": 309,
+        "registrations": 9,
+        "conversion": 2.91
+    },
+    "336": {
+        "date_group": "2023-06-21",
+        "platform": "android",
+        "visits": 42,
+        "registrations": 35,
+        "conversion": 83.33
+    },
+    "337": {
+        "date_group": "2023-06-21",
+        "platform": "ios",
+        "visits": 36,
+        "registrations": 29,
+        "conversion": 80.56
+    },
+    "338": {
+        "date_group": "2023-06-21",
+        "platform": "web",
+        "visits": 586,
+        "registrations": 47,
+        "conversion": 8.02
+    },
+    "339": {
+        "date_group": "2023-06-22",
+        "platform": "android",
+        "visits": 82,
+        "registrations": 67,
+        "conversion": 81.71
+    },
+    "340": {
+        "date_group": "2023-06-22",
+        "platform": "ios",
+        "visits": 43,
+        "registrations": 35,
+        "conversion": 81.4
+    },
+    "341": {
+        "date_group": "2023-06-22",
+        "platform": "web",
+        "visits": 632,
+        "registrations": 28,
+        "conversion": 4.43
+    },
+    "342": {
+        "date_group": "2023-06-23",
+        "platform": "android",
+        "visits": 129,
+        "registrations": 83,
+        "conversion": 64.34
+    },
+    "343": {
+        "date_group": "2023-06-23",
+        "platform": "ios",
+        "visits": 36,
+        "registrations": 21,
+        "conversion": 58.33
+    },
+    "344": {
+        "date_group": "2023-06-23",
+        "platform": "web",
+        "visits": 983,
+        "registrations": 63,
+        "conversion": 6.41
+    },
+    "345": {
+        "date_group": "2023-06-24",
+        "platform": "android",
+        "visits": 94,
+        "registrations": 62,
+        "conversion": 65.96
+    },
+    "346": {
+        "date_group": "2023-06-24",
+        "platform": "ios",
+        "visits": 12,
+        "registrations": 8,
+        "conversion": 66.67
+    },
+    "347": {
+        "date_group": "2023-06-24",
+        "platform": "web",
+        "visits": 817,
+        "registrations": 34,
+        "conversion": 4.16
+    },
+    "348": {
+        "date_group": "2023-06-25",
+        "platform": "android",
+        "visits": 51,
+        "registrations": 30,
+        "conversion": 58.82
+    },
+    "349": {
+        "date_group": "2023-06-25",
+        "platform": "ios",
+        "visits": 44,
+        "registrations": 28,
+        "conversion": 63.64
+    },
+    "350": {
+        "date_group": "2023-06-25",
+        "platform": "web",
+        "visits": 1007,
+        "registrations": 78,
+        "conversion": 7.75
+    },
+    "351": {
+        "date_group": "2023-06-26",
+        "platform": "android",
+        "visits": 63,
+        "registrations": 41,
+        "conversion": 65.08
+    },
+    "352": {
+        "date_group": "2023-06-26",
+        "platform": "ios",
+        "visits": 47,
+        "registrations": 31,
+        "conversion": 65.96
+    },
+    "353": {
+        "date_group": "2023-06-26",
+        "platform": "web",
+        "visits": 581,
+        "registrations": 29,
+        "conversion": 4.99
+    },
+    "354": {
+        "date_group": "2023-06-27",
+        "platform": "android",
+        "visits": 91,
+        "registrations": 51,
+        "conversion": 56.04
+    },
+    "355": {
+        "date_group": "2023-06-27",
+        "platform": "ios",
+        "visits": 19,
+        "registrations": 9,
+        "conversion": 47.37
+    },
+    "356": {
+        "date_group": "2023-06-27",
+        "platform": "web",
+        "visits": 1031,
+        "registrations": 25,
+        "conversion": 2.42
+    },
+    "357": {
+        "date_group": "2023-06-28",
+        "platform": "android",
+        "visits": 42,
+        "registrations": 23,
+        "conversion": 54.76
+    },
+    "358": {
+        "date_group": "2023-06-28",
+        "platform": "ios",
+        "visits": 44,
+        "registrations": 27,
+        "conversion": 61.36
+    },
+    "359": {
+        "date_group": "2023-06-28",
+        "platform": "web",
+        "visits": 1021,
+        "registrations": 25,
+        "conversion": 2.45
+    },
+    "360": {
+        "date_group": "2023-06-29",
+        "platform": "android",
+        "visits": 87,
+        "registrations": 61,
+        "conversion": 70.11
+    },
+    "361": {
+        "date_group": "2023-06-29",
+        "platform": "ios",
+        "visits": 66,
+        "registrations": 41,
+        "conversion": 62.12
+    },
+    "362": {
+        "date_group": "2023-06-29",
+        "platform": "web",
+        "visits": 491,
+        "registrations": 18,
+        "conversion": 3.67
+    },
+    "363": {
+        "date_group": "2023-06-30",
+        "platform": "android",
+        "visits": 61,
+        "registrations": 44,
+        "conversion": 72.13
+    },
+    "364": {
+        "date_group": "2023-06-30",
+        "platform": "ios",
+        "visits": 34,
+        "registrations": 23,
+        "conversion": 67.65
+    },
+    "365": {
+        "date_group": "2023-06-30",
+        "platform": "web",
+        "visits": 992,
+        "registrations": 33,
+        "conversion": 3.33
+    },
+    "366": {
+        "date_group": "2023-07-01",
+        "platform": "android",
+        "visits": 111,
+        "registrations": 65,
+        "conversion": 58.56
+    },
+    "367": {
+        "date_group": "2023-07-01",
+        "platform": "ios",
+        "visits": 17,
+        "registrations": 10,
+        "conversion": 58.82
+    },
+    "368": {
+        "date_group": "2023-07-01",
+        "platform": "web",
+        "visits": 822,
+        "registrations": 57,
+        "conversion": 6.93
+    },
+    "369": {
+        "date_group": "2023-07-02",
+        "platform": "android",
+        "visits": 102,
+        "registrations": 70,
+        "conversion": 68.63
+    },
+    "370": {
+        "date_group": "2023-07-02",
+        "platform": "ios",
+        "visits": 33,
+        "registrations": 22,
+        "conversion": 66.67
+    },
+    "371": {
+        "date_group": "2023-07-02",
+        "platform": "web",
+        "visits": 787,
+        "registrations": 32,
+        "conversion": 4.07
+    },
+    "372": {
+        "date_group": "2023-07-03",
+        "platform": "android",
+        "visits": 97,
+        "registrations": 71,
+        "conversion": 73.2
+    },
+    "373": {
+        "date_group": "2023-07-03",
+        "platform": "ios",
+        "visits": 27,
+        "registrations": 19,
+        "conversion": 70.37
+    },
+    "374": {
+        "date_group": "2023-07-03",
+        "platform": "web",
+        "visits": 812,
+        "registrations": 36,
+        "conversion": 4.43
+    },
+    "375": {
+        "date_group": "2023-07-04",
+        "platform": "android",
+        "visits": 91,
+        "registrations": 69,
+        "conversion": 75.82
+    },
+    "376": {
+        "date_group": "2023-07-04",
+        "platform": "ios",
+        "visits": 32,
+        "registrations": 18,
+        "conversion": 56.25
+    },
+    "377": {
+        "date_group": "2023-07-04",
+        "platform": "web",
+        "visits": 909,
+        "registrations": 21,
+        "conversion": 2.31
+    },
+    "378": {
+        "date_group": "2023-07-05",
+        "platform": "android",
+        "visits": 78,
+        "registrations": 52,
+        "conversion": 66.67
+    },
+    "379": {
+        "date_group": "2023-07-05",
+        "platform": "ios",
+        "visits": 36,
+        "registrations": 22,
+        "conversion": 61.11
+    },
+    "380": {
+        "date_group": "2023-07-05",
+        "platform": "web",
+        "visits": 433,
+        "registrations": 30,
+        "conversion": 6.93
+    },
+    "381": {
+        "date_group": "2023-07-06",
+        "platform": "android",
+        "visits": 112,
+        "registrations": 69,
+        "conversion": 61.61
+    },
+    "382": {
+        "date_group": "2023-07-06",
+        "platform": "ios",
+        "visits": 29,
+        "registrations": 15,
+        "conversion": 51.72
+    },
+    "383": {
+        "date_group": "2023-07-06",
+        "platform": "web",
+        "visits": 753,
+        "registrations": 30,
+        "conversion": 3.98
+    },
+    "384": {
+        "date_group": "2023-07-07",
+        "platform": "android",
+        "visits": 96,
+        "registrations": 61,
+        "conversion": 63.54
+    },
+    "385": {
+        "date_group": "2023-07-07",
+        "platform": "ios",
+        "visits": 26,
+        "registrations": 15,
+        "conversion": 57.69
+    },
+    "386": {
+        "date_group": "2023-07-07",
+        "platform": "web",
+        "visits": 923,
+        "registrations": 74,
+        "conversion": 8.02
+    },
+    "387": {
+        "date_group": "2023-07-08",
+        "platform": "android",
+        "visits": 93,
+        "registrations": 63,
+        "conversion": 67.74
+    },
+    "388": {
+        "date_group": "2023-07-08",
+        "platform": "ios",
+        "visits": 31,
+        "registrations": 18,
+        "conversion": 58.06
+    },
+    "389": {
+        "date_group": "2023-07-08",
+        "platform": "web",
+        "visits": 649,
+        "registrations": 38,
+        "conversion": 5.86
+    },
+    "390": {
+        "date_group": "2023-07-09",
+        "platform": "android",
+        "visits": 121,
+        "registrations": 76,
+        "conversion": 62.81
+    },
+    "391": {
+        "date_group": "2023-07-09",
+        "platform": "ios",
+        "visits": 32,
+        "registrations": 22,
+        "conversion": 68.75
+    },
+    "392": {
+        "date_group": "2023-07-09",
+        "platform": "web",
+        "visits": 1009,
+        "registrations": 44,
+        "conversion": 4.36
+    },
+    "393": {
+        "date_group": "2023-07-10",
+        "platform": "android",
+        "visits": 108,
+        "registrations": 66,
+        "conversion": 61.11
+    },
+    "394": {
+        "date_group": "2023-07-10",
+        "platform": "ios",
+        "visits": 34,
+        "registrations": 20,
+        "conversion": 58.82
+    },
+    "395": {
+        "date_group": "2023-07-10",
+        "platform": "web",
+        "visits": 492,
+        "registrations": 35,
+        "conversion": 7.11
+    },
+    "396": {
+        "date_group": "2023-07-11",
+        "platform": "android",
+        "visits": 119,
+        "registrations": 76,
+        "conversion": 63.87
+    },
+    "397": {
+        "date_group": "2023-07-11",
+        "platform": "ios",
+        "visits": 25,
+        "registrations": 15,
+        "conversion": 60.0
+    },
+    "398": {
+        "date_group": "2023-07-11",
+        "platform": "web",
+        "visits": 514,
+        "registrations": 27,
+        "conversion": 5.25
+    },
+    "399": {
+        "date_group": "2023-07-12",
+        "platform": "android",
+        "visits": 93,
+        "registrations": 61,
+        "conversion": 65.59
+    },
+    "400": {
+        "date_group": "2023-07-12",
+        "platform": "ios",
+        "visits": 73,
+        "registrations": 48,
+        "conversion": 65.75
+    },
+    "401": {
+        "date_group": "2023-07-12",
+        "platform": "web",
+        "visits": 739,
+        "registrations": 34,
+        "conversion": 4.6
+    },
+    "402": {
+        "date_group": "2023-07-13",
+        "platform": "android",
+        "visits": 154,
+        "registrations": 98,
+        "conversion": 63.64
+    },
+    "403": {
+        "date_group": "2023-07-13",
+        "platform": "ios",
+        "visits": 49,
+        "registrations": 28,
+        "conversion": 57.14
+    },
+    "404": {
+        "date_group": "2023-07-13",
+        "platform": "web",
+        "visits": 541,
+        "registrations": 16,
+        "conversion": 2.96
+    },
+    "405": {
+        "date_group": "2023-07-14",
+        "platform": "android",
+        "visits": 59,
+        "registrations": 35,
+        "conversion": 59.32
+    },
+    "406": {
+        "date_group": "2023-07-14",
+        "platform": "ios",
+        "visits": 31,
+        "registrations": 21,
+        "conversion": 67.74
+    },
+    "407": {
+        "date_group": "2023-07-14",
+        "platform": "web",
+        "visits": 1014,
+        "registrations": 41,
+        "conversion": 4.04
+    },
+    "408": {
+        "date_group": "2023-07-15",
+        "platform": "android",
+        "visits": 83,
+        "registrations": 54,
+        "conversion": 65.06
+    },
+    "409": {
+        "date_group": "2023-07-15",
+        "platform": "ios",
+        "visits": 24,
+        "registrations": 14,
+        "conversion": 58.33
+    },
+    "410": {
+        "date_group": "2023-07-15",
+        "platform": "web",
+        "visits": 667,
+        "registrations": 29,
+        "conversion": 4.35
+    },
+    "411": {
+        "date_group": "2023-07-16",
+        "platform": "android",
+        "visits": 107,
+        "registrations": 72,
+        "conversion": 67.29
+    },
+    "412": {
+        "date_group": "2023-07-16",
+        "platform": "ios",
+        "visits": 20,
+        "registrations": 12,
+        "conversion": 60.0
+    },
+    "413": {
+        "date_group": "2023-07-16",
+        "platform": "web",
+        "visits": 491,
+        "registrations": 39,
+        "conversion": 7.94
+    },
+    "414": {
+        "date_group": "2023-07-17",
+        "platform": "android",
+        "visits": 55,
+        "registrations": 40,
+        "conversion": 72.73
+    },
+    "415": {
+        "date_group": "2023-07-17",
+        "platform": "ios",
+        "visits": 20,
+        "registrations": 14,
+        "conversion": 70.0
+    },
+    "416": {
+        "date_group": "2023-07-17",
+        "platform": "web",
+        "visits": 812,
+        "registrations": 36,
+        "conversion": 4.43
+    },
+    "417": {
+        "date_group": "2023-07-18",
+        "platform": "android",
+        "visits": 78,
+        "registrations": 54,
+        "conversion": 69.23
+    },
+    "418": {
+        "date_group": "2023-07-18",
+        "platform": "ios",
+        "visits": 20,
+        "registrations": 13,
+        "conversion": 65.0
+    },
+    "419": {
+        "date_group": "2023-07-18",
+        "platform": "web",
+        "visits": 510,
+        "registrations": 15,
+        "conversion": 2.94
+    },
+    "420": {
+        "date_group": "2023-07-19",
+        "platform": "android",
+        "visits": 35,
+        "registrations": 24,
+        "conversion": 68.57
+    },
+    "421": {
+        "date_group": "2023-07-19",
+        "platform": "ios",
+        "visits": 33,
+        "registrations": 21,
+        "conversion": 63.64
+    },
+    "422": {
+        "date_group": "2023-07-19",
+        "platform": "web",
+        "visits": 870,
+        "registrations": 41,
+        "conversion": 4.71
+    },
+    "423": {
+        "date_group": "2023-07-20",
+        "platform": "android",
+        "visits": 125,
+        "registrations": 81,
+        "conversion": 64.8
+    },
+    "424": {
+        "date_group": "2023-07-20",
+        "platform": "ios",
+        "visits": 13,
+        "registrations": 6,
+        "conversion": 46.15
+    },
+    "425": {
+        "date_group": "2023-07-20",
+        "platform": "web",
+        "visits": 533,
+        "registrations": 12,
+        "conversion": 2.25
+    },
+    "426": {
+        "date_group": "2023-07-21",
+        "platform": "android",
+        "visits": 125,
+        "registrations": 90,
+        "conversion": 72.0
+    },
+    "427": {
+        "date_group": "2023-07-21",
+        "platform": "ios",
+        "visits": 27,
+        "registrations": 17,
+        "conversion": 62.96
+    },
+    "428": {
+        "date_group": "2023-07-21",
+        "platform": "web",
+        "visits": 494,
+        "registrations": 33,
+        "conversion": 6.68
+    },
+    "429": {
+        "date_group": "2023-07-22",
+        "platform": "android",
+        "visits": 119,
+        "registrations": 77,
+        "conversion": 64.71
+    },
+    "430": {
+        "date_group": "2023-07-22",
+        "platform": "ios",
+        "visits": 23,
+        "registrations": 12,
+        "conversion": 52.17
+    },
+    "431": {
+        "date_group": "2023-07-22",
+        "platform": "web",
+        "visits": 567,
+        "registrations": 40,
+        "conversion": 7.05
+    },
+    "432": {
+        "date_group": "2023-07-23",
+        "platform": "android",
+        "visits": 75,
+        "registrations": 54,
+        "conversion": 72.0
+    },
+    "433": {
+        "date_group": "2023-07-23",
+        "platform": "ios",
+        "visits": 19,
+        "registrations": 14,
+        "conversion": 73.68
+    },
+    "434": {
+        "date_group": "2023-07-23",
+        "platform": "web",
+        "visits": 698,
+        "registrations": 22,
+        "conversion": 3.15
+    },
+    "435": {
+        "date_group": "2023-07-24",
+        "platform": "android",
+        "visits": 150,
+        "registrations": 87,
+        "conversion": 58.0
+    },
+    "436": {
+        "date_group": "2023-07-24",
+        "platform": "ios",
+        "visits": 25,
+        "registrations": 12,
+        "conversion": 48.0
+    },
+    "437": {
+        "date_group": "2023-07-24",
+        "platform": "web",
+        "visits": 684,
+        "registrations": 25,
+        "conversion": 3.65
+    },
+    "438": {
+        "date_group": "2023-07-25",
+        "platform": "android",
+        "visits": 110,
+        "registrations": 65,
+        "conversion": 59.09
+    },
+    "439": {
+        "date_group": "2023-07-25",
+        "platform": "ios",
+        "visits": 44,
+        "registrations": 30,
+        "conversion": 68.18
+    },
+    "440": {
+        "date_group": "2023-07-25",
+        "platform": "web",
+        "visits": 1038,
+        "registrations": 58,
+        "conversion": 5.59
+    },
+    "441": {
+        "date_group": "2023-07-26",
+        "platform": "android",
+        "visits": 71,
+        "registrations": 42,
+        "conversion": 59.15
+    },
+    "442": {
+        "date_group": "2023-07-26",
+        "platform": "ios",
+        "visits": 22,
+        "registrations": 14,
+        "conversion": 63.64
+    },
+    "443": {
+        "date_group": "2023-07-26",
+        "platform": "web",
+        "visits": 671,
+        "registrations": 46,
+        "conversion": 6.86
+    },
+    "444": {
+        "date_group": "2023-07-27",
+        "platform": "android",
+        "visits": 36,
+        "registrations": 31,
+        "conversion": 86.11
+    },
+    "445": {
+        "date_group": "2023-07-27",
+        "platform": "ios",
+        "visits": 15,
+        "registrations": 12,
+        "conversion": 80.0
+    },
+    "446": {
+        "date_group": "2023-07-27",
+        "platform": "web",
+        "visits": 311,
+        "registrations": 29,
+        "conversion": 9.32
+    },
+    "447": {
+        "date_group": "2023-07-28",
+        "platform": "android",
+        "visits": 64,
+        "registrations": 52,
+        "conversion": 81.25
+    },
+    "448": {
+        "date_group": "2023-07-28",
+        "platform": "ios",
+        "visits": 42,
+        "registrations": 35,
+        "conversion": 83.33
+    },
+    "449": {
+        "date_group": "2023-07-28",
+        "platform": "web",
+        "visits": 503,
+        "registrations": 24,
+        "conversion": 4.77
+    },
+    "450": {
+        "date_group": "2023-07-29",
+        "platform": "android",
+        "visits": 42,
+        "registrations": 36,
+        "conversion": 85.71
+    },
+    "451": {
+        "date_group": "2023-07-29",
+        "platform": "ios",
+        "visits": 7,
+        "registrations": 6,
+        "conversion": 85.71
+    },
+    "452": {
+        "date_group": "2023-07-29",
+        "platform": "web",
+        "visits": 543,
+        "registrations": 49,
+        "conversion": 9.02
+    },
+    "453": {
+        "date_group": "2023-07-30",
+        "platform": "android",
+        "visits": 78,
+        "registrations": 66,
+        "conversion": 84.62
+    },
+    "454": {
+        "date_group": "2023-07-30",
+        "platform": "ios",
+        "visits": 42,
+        "registrations": 36,
+        "conversion": 85.71
+    },
+    "455": {
+        "date_group": "2023-07-30",
+        "platform": "web",
+        "visits": 511,
+        "registrations": 21,
+        "conversion": 4.11
+    },
+    "456": {
+        "date_group": "2023-07-31",
+        "platform": "android",
+        "visits": 75,
+        "registrations": 62,
+        "conversion": 82.67
+    },
+    "457": {
+        "date_group": "2023-07-31",
+        "platform": "ios",
+        "visits": 20,
+        "registrations": 16,
+        "conversion": 80.0
+    },
+    "458": {
+        "date_group": "2023-07-31",
+        "platform": "web",
+        "visits": 505,
+        "registrations": 32,
+        "conversion": 6.34
+    },
+    "459": {
+        "date_group": "2023-08-01",
+        "platform": "android",
+        "visits": 77,
+        "registrations": 64,
+        "conversion": 83.12
+    },
+    "460": {
+        "date_group": "2023-08-01",
+        "platform": "ios",
+        "visits": 17,
+        "registrations": 14,
+        "conversion": 82.35
+    },
+    "461": {
+        "date_group": "2023-08-01",
+        "platform": "web",
+        "visits": 351,
+        "registrations": 29,
+        "conversion": 8.26
+    },
+    "462": {
+        "date_group": "2023-08-02",
+        "platform": "android",
+        "visits": 23,
+        "registrations": 19,
+        "conversion": 82.61
+    },
+    "463": {
+        "date_group": "2023-08-02",
+        "platform": "ios",
+        "visits": 27,
+        "registrations": 24,
+        "conversion": 88.89
+    },
+    "464": {
+        "date_group": "2023-08-02",
+        "platform": "web",
+        "visits": 700,
+        "registrations": 48,
+        "conversion": 6.86
+    },
+    "465": {
+        "date_group": "2023-08-03",
+        "platform": "android",
+        "visits": 46,
+        "registrations": 39,
+        "conversion": 84.78
+    },
+    "466": {
+        "date_group": "2023-08-03",
+        "platform": "ios",
+        "visits": 20,
+        "registrations": 16,
+        "conversion": 80.0
+    },
+    "467": {
+        "date_group": "2023-08-03",
+        "platform": "web",
+        "visits": 463,
+        "registrations": 16,
+        "conversion": 3.46
+    },
+    "468": {
+        "date_group": "2023-08-04",
+        "platform": "android",
+        "visits": 27,
+        "registrations": 22,
+        "conversion": 81.48
+    },
+    "469": {
+        "date_group": "2023-08-04",
+        "platform": "ios",
+        "visits": 18,
+        "registrations": 15,
+        "conversion": 83.33
+    },
+    "470": {
+        "date_group": "2023-08-04",
+        "platform": "web",
+        "visits": 636,
+        "registrations": 50,
+        "conversion": 7.86
+    },
+    "471": {
+        "date_group": "2023-08-05",
+        "platform": "android",
+        "visits": 62,
+        "registrations": 50,
+        "conversion": 80.65
+    },
+    "472": {
+        "date_group": "2023-08-05",
+        "platform": "ios",
+        "visits": 34,
+        "registrations": 28,
+        "conversion": 82.35
+    },
+    "473": {
+        "date_group": "2023-08-05",
+        "platform": "web",
+        "visits": 474,
+        "registrations": 23,
+        "conversion": 4.85
+    },
+    "474": {
+        "date_group": "2023-08-06",
+        "platform": "android",
+        "visits": 76,
+        "registrations": 63,
+        "conversion": 82.89
+    },
+    "475": {
+        "date_group": "2023-08-06",
+        "platform": "ios",
+        "visits": 17,
+        "registrations": 15,
+        "conversion": 88.24
+    },
+    "476": {
+        "date_group": "2023-08-06",
+        "platform": "web",
+        "visits": 661,
+        "registrations": 37,
+        "conversion": 5.6
+    },
+    "477": {
+        "date_group": "2023-08-07",
+        "platform": "android",
+        "visits": 100,
+        "registrations": 80,
+        "conversion": 80.0
+    },
+    "478": {
+        "date_group": "2023-08-07",
+        "platform": "ios",
+        "visits": 34,
+        "registrations": 24,
+        "conversion": 70.59
+    },
+    "479": {
+        "date_group": "2023-08-07",
+        "platform": "web",
+        "visits": 832,
+        "registrations": 32,
+        "conversion": 3.85
+    },
+    "480": {
+        "date_group": "2023-08-08",
+        "platform": "android",
+        "visits": 83,
+        "registrations": 57,
+        "conversion": 68.67
+    },
+    "481": {
+        "date_group": "2023-08-08",
+        "platform": "ios",
+        "visits": 31,
+        "registrations": 22,
+        "conversion": 70.97
+    },
+    "482": {
+        "date_group": "2023-08-08",
+        "platform": "web",
+        "visits": 888,
+        "registrations": 50,
+        "conversion": 5.63
+    },
+    "483": {
+        "date_group": "2023-08-09",
+        "platform": "android",
+        "visits": 107,
+        "registrations": 82,
+        "conversion": 76.64
+    },
+    "484": {
+        "date_group": "2023-08-09",
+        "platform": "ios",
+        "visits": 33,
+        "registrations": 24,
+        "conversion": 72.73
+    },
+    "485": {
+        "date_group": "2023-08-09",
+        "platform": "web",
+        "visits": 422,
+        "registrations": 18,
+        "conversion": 4.27
+    },
+    "486": {
+        "date_group": "2023-08-10",
+        "platform": "android",
+        "visits": 142,
+        "registrations": 112,
+        "conversion": 78.87
+    },
+    "487": {
+        "date_group": "2023-08-10",
+        "platform": "ios",
+        "visits": 15,
+        "registrations": 11,
+        "conversion": 73.33
+    },
+    "488": {
+        "date_group": "2023-08-10",
+        "platform": "web",
+        "visits": 478,
+        "registrations": 24,
+        "conversion": 5.02
+    },
+    "489": {
+        "date_group": "2023-08-11",
+        "platform": "android",
+        "visits": 93,
+        "registrations": 70,
+        "conversion": 75.27
+    },
+    "490": {
+        "date_group": "2023-08-11",
+        "platform": "ios",
+        "visits": 14,
+        "registrations": 10,
+        "conversion": 71.43
+    },
+    "491": {
+        "date_group": "2023-08-11",
+        "platform": "web",
+        "visits": 749,
+        "registrations": 25,
+        "conversion": 3.34
+    },
+    "492": {
+        "date_group": "2023-08-12",
+        "platform": "android",
+        "visits": 124,
+        "registrations": 109,
+        "conversion": 87.9
+    },
+    "493": {
+        "date_group": "2023-08-12",
+        "platform": "ios",
+        "visits": 27,
+        "registrations": 21,
+        "conversion": 77.78
+    },
+    "494": {
+        "date_group": "2023-08-12",
+        "platform": "web",
+        "visits": 479,
+        "registrations": 19,
+        "conversion": 3.97
+    },
+    "495": {
+        "date_group": "2023-08-13",
+        "platform": "android",
+        "visits": 49,
+        "registrations": 34,
+        "conversion": 69.39
+    },
+    "496": {
+        "date_group": "2023-08-13",
+        "platform": "ios",
+        "visits": 34,
+        "registrations": 24,
+        "conversion": 70.59
+    },
+    "497": {
+        "date_group": "2023-08-13",
+        "platform": "web",
+        "visits": 751,
+        "registrations": 34,
+        "conversion": 4.53
+    },
+    "498": {
+        "date_group": "2023-08-14",
+        "platform": "android",
+        "visits": 96,
+        "registrations": 65,
+        "conversion": 67.71
+    },
+    "499": {
+        "date_group": "2023-08-14",
+        "platform": "ios",
+        "visits": 18,
+        "registrations": 15,
+        "conversion": 83.33
+    },
+    "500": {
+        "date_group": "2023-08-14",
+        "platform": "web",
+        "visits": 687,
+        "registrations": 60,
+        "conversion": 8.73
+    },
+    "501": {
+        "date_group": "2023-08-15",
+        "platform": "android",
+        "visits": 139,
+        "registrations": 93,
+        "conversion": 66.91
+    },
+    "502": {
+        "date_group": "2023-08-15",
+        "platform": "ios",
+        "visits": 30,
+        "registrations": 23,
+        "conversion": 76.67
+    },
+    "503": {
+        "date_group": "2023-08-15",
+        "platform": "web",
+        "visits": 967,
+        "registrations": 43,
+        "conversion": 4.45
+    },
+    "504": {
+        "date_group": "2023-08-16",
+        "platform": "android",
+        "visits": 39,
+        "registrations": 27,
+        "conversion": 69.23
+    },
+    "505": {
+        "date_group": "2023-08-16",
+        "platform": "ios",
+        "visits": 38,
+        "registrations": 30,
+        "conversion": 78.95
+    },
+    "506": {
+        "date_group": "2023-08-16",
+        "platform": "web",
+        "visits": 394,
+        "registrations": 18,
+        "conversion": 4.57
+    },
+    "507": {
+        "date_group": "2023-08-17",
+        "platform": "android",
+        "visits": 45,
+        "registrations": 39,
+        "conversion": 86.67
+    },
+    "508": {
+        "date_group": "2023-08-17",
+        "platform": "ios",
+        "visits": 36,
+        "registrations": 28,
+        "conversion": 77.78
+    },
+    "509": {
+        "date_group": "2023-08-17",
+        "platform": "web",
+        "visits": 841,
+        "registrations": 62,
+        "conversion": 7.37
+    },
+    "510": {
+        "date_group": "2023-08-18",
+        "platform": "android",
+        "visits": 44,
+        "registrations": 27,
+        "conversion": 61.36
+    },
+    "511": {
+        "date_group": "2023-08-18",
+        "platform": "ios",
+        "visits": 36,
+        "registrations": 28,
+        "conversion": 77.78
+    },
+    "512": {
+        "date_group": "2023-08-18",
+        "platform": "web",
+        "visits": 934,
+        "registrations": 50,
+        "conversion": 5.35
+    },
+    "513": {
+        "date_group": "2023-08-19",
+        "platform": "android",
+        "visits": 68,
+        "registrations": 57,
+        "conversion": 83.82
+    },
+    "514": {
+        "date_group": "2023-08-19",
+        "platform": "ios",
+        "visits": 32,
+        "registrations": 23,
+        "conversion": 71.88
+    },
+    "515": {
+        "date_group": "2023-08-19",
+        "platform": "web",
+        "visits": 1059,
+        "registrations": 30,
+        "conversion": 2.83
+    },
+    "516": {
+        "date_group": "2023-08-20",
+        "platform": "android",
+        "visits": 60,
+        "registrations": 36,
+        "conversion": 60.0
+    },
+    "517": {
+        "date_group": "2023-08-20",
+        "platform": "ios",
+        "visits": 21,
+        "registrations": 16,
+        "conversion": 76.19
+    },
+    "518": {
+        "date_group": "2023-08-20",
+        "platform": "web",
+        "visits": 531,
+        "registrations": 35,
+        "conversion": 6.59
+    },
+    "519": {
+        "date_group": "2023-08-21",
+        "platform": "android",
+        "visits": 129,
+        "registrations": 85,
+        "conversion": 65.89
+    },
+    "520": {
+        "date_group": "2023-08-21",
+        "platform": "ios",
+        "visits": 30,
+        "registrations": 22,
+        "conversion": 73.33
+    },
+    "521": {
+        "date_group": "2023-08-21",
+        "platform": "web",
+        "visits": 935,
+        "registrations": 33,
+        "conversion": 3.53
+    },
+    "522": {
+        "date_group": "2023-08-22",
+        "platform": "android",
+        "visits": 57,
+        "registrations": 38,
+        "conversion": 66.67
+    },
+    "523": {
+        "date_group": "2023-08-22",
+        "platform": "ios",
+        "visits": 37,
+        "registrations": 29,
+        "conversion": 78.38
+    },
+    "524": {
+        "date_group": "2023-08-22",
+        "platform": "web",
+        "visits": 955,
+        "registrations": 74,
+        "conversion": 7.75
+    },
+    "525": {
+        "date_group": "2023-08-23",
+        "platform": "android",
+        "visits": 70,
+        "registrations": 47,
+        "conversion": 67.14
+    },
+    "526": {
+        "date_group": "2023-08-23",
+        "platform": "ios",
+        "visits": 38,
+        "registrations": 29,
+        "conversion": 76.32
+    },
+    "527": {
+        "date_group": "2023-08-23",
+        "platform": "web",
+        "visits": 865,
+        "registrations": 68,
+        "conversion": 7.86
+    },
+    "528": {
+        "date_group": "2023-08-24",
+        "platform": "android",
+        "visits": 103,
+        "registrations": 67,
+        "conversion": 65.05
+    },
+    "529": {
+        "date_group": "2023-08-24",
+        "platform": "ios",
+        "visits": 54,
+        "registrations": 43,
+        "conversion": 79.63
+    },
+    "530": {
+        "date_group": "2023-08-24",
+        "platform": "web",
+        "visits": 473,
+        "registrations": 36,
+        "conversion": 7.61
+    },
+    "531": {
+        "date_group": "2023-08-25",
+        "platform": "android",
+        "visits": 79,
+        "registrations": 62,
+        "conversion": 78.48
+    },
+    "532": {
+        "date_group": "2023-08-25",
+        "platform": "ios",
+        "visits": 36,
+        "registrations": 25,
+        "conversion": 69.44
+    },
+    "533": {
+        "date_group": "2023-08-25",
+        "platform": "web",
+        "visits": 882,
+        "registrations": 62,
+        "conversion": 7.03
+    },
+    "534": {
+        "date_group": "2023-08-26",
+        "platform": "android",
+        "visits": 147,
+        "registrations": 114,
+        "conversion": 77.55
+    },
+    "535": {
+        "date_group": "2023-08-26",
+        "platform": "ios",
+        "visits": 60,
+        "registrations": 41,
+        "conversion": 68.33
+    },
+    "536": {
+        "date_group": "2023-08-26",
+        "platform": "web",
+        "visits": 759,
+        "registrations": 30,
+        "conversion": 3.95
+    },
+    "537": {
+        "date_group": "2023-08-27",
+        "platform": "android",
+        "visits": 56,
+        "registrations": 39,
+        "conversion": 69.64
+    },
+    "538": {
+        "date_group": "2023-08-27",
+        "platform": "ios",
+        "visits": 24,
+        "registrations": 18,
+        "conversion": 75.0
+    },
+    "539": {
+        "date_group": "2023-08-27",
+        "platform": "web",
+        "visits": 715,
+        "registrations": 31,
+        "conversion": 4.34
+    },
+    "540": {
+        "date_group": "2023-08-28",
+        "platform": "android",
+        "visits": 44,
+        "registrations": 34,
+        "conversion": 77.27
+    },
+    "541": {
+        "date_group": "2023-08-28",
+        "platform": "ios",
+        "visits": 35,
+        "registrations": 23,
+        "conversion": 65.71
+    },
+    "542": {
+        "date_group": "2023-08-28",
+        "platform": "web",
+        "visits": 556,
+        "registrations": 26,
+        "conversion": 4.68
+    },
+    "543": {
+        "date_group": "2023-08-29",
+        "platform": "android",
+        "visits": 71,
+        "registrations": 56,
+        "conversion": 78.87
+    },
+    "544": {
+        "date_group": "2023-08-29",
+        "platform": "ios",
+        "visits": 28,
+        "registrations": 23,
+        "conversion": 82.14
+    },
+    "545": {
+        "date_group": "2023-08-29",
+        "platform": "web",
+        "visits": 1169,
+        "registrations": 64,
+        "conversion": 5.47
+    },
+    "546": {
+        "date_group": "2023-08-30",
+        "platform": "android",
+        "visits": 35,
+        "registrations": 27,
+        "conversion": 77.14
+    },
+    "547": {
+        "date_group": "2023-08-30",
+        "platform": "ios",
+        "visits": 66,
+        "registrations": 40,
+        "conversion": 60.61
+    },
+    "548": {
+        "date_group": "2023-08-30",
+        "platform": "web",
+        "visits": 1227,
+        "registrations": 34,
+        "conversion": 2.77
+    },
+    "549": {
+        "date_group": "2023-08-31",
+        "platform": "android",
+        "visits": 57,
+        "registrations": 42,
+        "conversion": 73.68
+    },
+    "550": {
+        "date_group": "2023-08-31",
+        "platform": "ios",
+        "visits": 50,
+        "registrations": 36,
+        "conversion": 72.0
+    },
+    "551": {
+        "date_group": "2023-08-31",
+        "platform": "web",
+        "visits": 721,
+        "registrations": 46,
+        "conversion": 6.38
+    }
+}
